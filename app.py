@@ -1,1 +1,1 @@
-full content here - but I need to provide actual content
+See local file - updated header and class
